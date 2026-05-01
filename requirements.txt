@@ -1,0 +1,12 @@
+mistralai<2.0.0
+jedi>=0.16
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-index-embeddings-huggingface
+llama-index
+llama-index-llms-groq
+llama-index-postprocessor-cohere-rerank
+pandas
+llama-index-readers-wikipedia
+wikipedia
+llama-index-experimental
